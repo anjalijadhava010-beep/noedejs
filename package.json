@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "it is an amazing package",
+  "homepage": "https://github.com/anjalijadhava010-beep/noedejs#readme",
+  "bugs": {
+    "url": "https://github.com/anjalijadhava010-beep/noedejs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anjalijadhava010-beep/noedejs.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
